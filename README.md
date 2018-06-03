@@ -1,12 +1,13 @@
 # Awesome Stuff
 
-Awesome contents or articles that interesting and guide the good solution for programming. Do not hesitate to show a cool stuff with pull request.
+Awesome contents or articles that interesting and guide the good solution for programming. Please, do not hesitate to share some cool stuff with pull request.
 
 Have Fun! 😎
 
 # Javascript
 
 ## General
+- [7 เรื่องพื้นฐานชวนสับสนใน JavaScript สำหรับผู้เริ่มต้น 🇹🇭](https://www.babelcoder.com/blog/posts/7-common-misunderstandings-in-javascript)
 - [SVG to PNG image - JSFiddle](http://jsfiddle.net/epistemex/xfh7nctk/23/)
 
 
