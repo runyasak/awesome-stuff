@@ -1,4 +1,4 @@
-# My Awesome Stuff
+# Awesome Stuff
 
 Awesome contents or articles that interesting and guide the good solution for programming. Do not hesitate to show a cool stuff with pull request.
 
