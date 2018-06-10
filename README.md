@@ -20,6 +20,7 @@ Have Fun! 😎
 
 # Firebase
 - [Firebase Storage and Access-Control-Allow-Origin - Stack Overflow](https://stackoverflow.com/questions/37760695/firebase-storage-and-access-control-allow-origin?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+- [Although specifying packages I’m still receiving “It looks like you’re using the development build of the Firebase JS SDK” · Issue #848 · firebase/firebase-js-sdk · GitHub](https://github.com/firebase/firebase-js-sdk/issues/848)
 
 # CSS
 - [CSS Diner - Where we feast on CSS Selectors! ⭐️](https://flukeout.github.io/)
