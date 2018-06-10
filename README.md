@@ -18,6 +18,9 @@ Have Fun! 😎
 - [Vue2.0 image load event - JSFiddle](http://jsfiddle.net/nobu222/xr0g3Lco/)
 - [sdras/vue-sample-svg-icons: An opinionated example of how to use SVG icons in a Vue.js application](https://github.com/sdras/vue-sample-svg-icons/blob/master/LICENSE)
 
+# Firebase
+- [Firebase Storage and Access-Control-Allow-Origin - Stack Overflow](https://stackoverflow.com/questions/37760695/firebase-storage-and-access-control-allow-origin?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+
 # CSS
 - [CSS Diner - Where we feast on CSS Selectors! ⭐️](https://flukeout.github.io/)
 - [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/)
