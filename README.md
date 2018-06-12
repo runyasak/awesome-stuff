@@ -8,6 +8,7 @@ Have Fun! 😎
 - [Thai Pangsakulyanont: Smells In React Apps - JSConf.Asia 2018 ⭐️](https://www.youtube.com/watch?v=xBa0_b-5XDw)
 - [7 เรื่องพื้นฐานชวนสับสนใน JavaScript สำหรับผู้เริ่มต้น 🇹🇭 ⭐️](https://www.babelcoder.com/blog/posts/7-common-misunderstandings-in-javascript)
 - [These 6 essential tools will release, version, and maintain your NPM modules for you ](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
+- [How to count the number of lines of a string in javascript - Stack Overflow](https://stackoverflow.com/questions/8488729/how-to-count-the-number-of-lines-of-a-string-in-javascript?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 - [html5 - How to draw a rounded Rectangle on HTML Canvas? - Stack Overflow](https://stackoverflow.com/questions/1255512/how-to-draw-a-rounded-rectangle-on-html-canvas)
 - [Draw image caching thing and Canvas - JSFiddle](https://jsfiddle.net/jaredwilli/ex5n5/)
 - [SVG to PNG image - JSFiddle](http://jsfiddle.net/epistemex/xfh7nctk/23/)
