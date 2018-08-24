@@ -9,6 +9,7 @@ Have Fun! 😎
 - [7 เรื่องพื้นฐานชวนสับสนใน JavaScript สำหรับผู้เริ่มต้น 🇹🇭 ⭐️](https://www.babelcoder.com/blog/posts/7-common-misunderstandings-in-javascript)
 - [These 6 essential tools will release, version, and maintain your NPM modules for you ](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
 - [How to count the number of lines of a string in javascript - Stack Overflow](https://stackoverflow.com/questions/8488729/how-to-count-the-number-of-lines-of-a-string-in-javascript?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+- [Why you shouldn’t reassign values in JavaScript | Zell Liew](https://zellwk.com/blog/dont-reassign/?ck_subscriber_id=1197053)
 - [html5 - How to draw a rounded Rectangle on HTML Canvas? - Stack Overflow](https://stackoverflow.com/questions/1255512/how-to-draw-a-rounded-rectangle-on-html-canvas)
 - [Draw image caching thing and Canvas - JSFiddle](https://jsfiddle.net/jaredwilli/ex5n5/)
 - [SVG to PNG image - JSFiddle](http://jsfiddle.net/epistemex/xfh7nctk/23/)
@@ -24,7 +25,7 @@ Have Fun! 😎
 - [มาทำความเข้าใจกับ SQL Database และ Firebase Database กันเถอะ 🇹🇭 ⭐](https://medium.com/@jirawatee/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%81%E0%B8%B1%E0%B8%9A-sql-database-%E0%B9%81%E0%B8%A5%E0%B8%B0-firebase-database-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-4aed4a19e339)
 - [Firebase Storage and Access-Control-Allow-Origin - Stack Overflow](https://stackoverflow.com/questions/37760695/firebase-storage-and-access-control-allow-origin?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 - [Although specifying packages I’m still receiving “It looks like you’re using the development build of the Firebase JS SDK” · Issue #848 · firebase/firebase-js-sdk · GitHub](https://github.com/firebase/firebase-js-sdk/issues/848)
-
+- [Using schemas to generate your forms with Vue, and more!](https://blog.sourcerer.io/using-schemas-to-generate-your-forms-with-vue-and-more-e1cc28f2e8da)
 # CSS
 - [CSS Diner - Where we feast on CSS Selectors! ⭐️](https://flukeout.github.io/)
 - [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/)
@@ -37,6 +38,9 @@ Have Fun! 😎
 - [I just don’t want to be a software developer anymore](https://medium.com/@melissamcewen/i-just-dont-want-to-be-a-software-developer-anymore-a371422069a1)
 - [Talent, luck and success: simulating meritocracy and inequality with stochasticity](https://medium.com/@hongsupshin/talent-luck-and-success-simulating-meritocracy-and-inequality-with-stochasticity-501e0c1b4969
 )
+
+# Git
+- [When you change password -- Fix "Permission denied (publickey)" error when pushing with Git](https://gist.github.com/adamjohnson/5682757)
 
 # Tools
 - [Can I use... Support tables for HTML5, CSS3, etc ️️⭐️](https://caniuse.com/)
