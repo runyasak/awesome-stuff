@@ -33,6 +33,12 @@ Have Fun! 😎
 - [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 
+# Blockchain
+- [Why Blockchain is Hard – Jimmy Song – Medium](https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c)
+
+# Web3
+- [xcode-select: error: tool 'xcodebuild' requires Xcode, but active developer directory '/Library/Developer/CommandLineTools' is a command line tools instance · Issue #569 · nodejs/node-gyp](https://github.com/nodejs/node-gyp/issues/569)
+
 # Motivation
 - [อยากเป็นโปรแกรมเมอร์ละอ่อนใน 3เดือน – TiMeFF – Medium 🇹🇭 ⭐](https://medium.com/@timeff/%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%99-3%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99-7201b312e115)
 - [Developer learning styles — A chat with creator of Vue.js Evan You](https://blog.hackages.io/developer-learning-styles-a-chat-with-creator-of-vue-js-evan-you-a11f2dc5deac)
@@ -41,9 +47,6 @@ Have Fun! 😎
 - [Talent, luck and success: simulating meritocracy and inequality with stochasticity](https://medium.com/@hongsupshin/talent-luck-and-success-simulating-meritocracy-and-inequality-with-stochasticity-501e0c1b4969
 )
 - [This Is The Most Important Tool To Motivate Yourself](https://medium.com/personal-growth/this-is-the-most-important-tool-to-motivate-yourself-6b14b2e00215)
-
-# Web3
-- [xcode-select: error: tool 'xcodebuild' requires Xcode, but active developer directory '/Library/Developer/CommandLineTools' is a command line tools instance · Issue #569 · nodejs/node-gyp](https://github.com/nodejs/node-gyp/issues/569)
 
 # Git
 - [When you change password -- Fix "Permission denied (publickey)" error when pushing with Git](https://gist.github.com/adamjohnson/5682757)
