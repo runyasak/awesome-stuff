@@ -13,6 +13,8 @@ Have Fun! 😎
 - [html5 - How to draw a rounded Rectangle on HTML Canvas? - Stack Overflow](https://stackoverflow.com/questions/1255512/how-to-draw-a-rounded-rectangle-on-html-canvas)
 - [Draw image caching thing and Canvas - JSFiddle](https://jsfiddle.net/jaredwilli/ex5n5/)
 - [SVG to PNG image - JSFiddle](http://jsfiddle.net/epistemex/xfh7nctk/23/)
+- [How can I get the full object in Node.js's console.log(), rather than '[Object]'? - Stack Overflow](https://stackoverflow.com/questions/10729276/how-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object#answer-10729284)
+- [How can I convert a string into a math operator in javascript - Stack Overflow](https://stackoverflow.com/questions/13077923/how-can-i-convert-a-string-into-a-math-operator-in-javascript#answer-26551015)
 
 
 # Vue.js
@@ -38,6 +40,10 @@ Have Fun! 😎
 - [I just don’t want to be a software developer anymore](https://medium.com/@melissamcewen/i-just-dont-want-to-be-a-software-developer-anymore-a371422069a1)
 - [Talent, luck and success: simulating meritocracy and inequality with stochasticity](https://medium.com/@hongsupshin/talent-luck-and-success-simulating-meritocracy-and-inequality-with-stochasticity-501e0c1b4969
 )
+- [This Is The Most Important Tool To Motivate Yourself](https://medium.com/personal-growth/this-is-the-most-important-tool-to-motivate-yourself-6b14b2e00215)
+
+# Web3
+- [xcode-select: error: tool 'xcodebuild' requires Xcode, but active developer directory '/Library/Developer/CommandLineTools' is a command line tools instance · Issue #569 · nodejs/node-gyp](https://github.com/nodejs/node-gyp/issues/569)
 
 # Git
 - [When you change password -- Fix "Permission denied (publickey)" error when pushing with Git](https://gist.github.com/adamjohnson/5682757)
