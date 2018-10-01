@@ -2,7 +2,7 @@
 
 Awesome contents or articles that interesting and guide the good solution for programming. Please, do not hesitate to share some cool stuff with pull request.
 
-Have Fun! 😎
+Try them!
 
 # Javascript
 - [Thai Pangsakulyanont: Smells In React Apps - JSConf.Asia 2018 ⭐️](https://www.youtube.com/watch?v=xBa0_b-5XDw)
