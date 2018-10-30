@@ -5,7 +5,7 @@ Awesome contents or articles that interesting and guide the good solution for pr
 Have Fun! 😎
 
 # Javascript
-- [Thai Pangsakulyanont: Smells In React Apps - JSConf.Asia 2018 ⭐️](https://www.youtube.com/watch?v=xBa0_b-5XDw)
+- [Thai **Pangsakulyanont**: Smells In React Apps - JSConf.Asia 2018 ⭐️](https://www.youtube.com/watch?v=xBa0_b-5XDw)
 - [7 เรื่องพื้นฐานชวนสับสนใน JavaScript สำหรับผู้เริ่มต้น 🇹🇭 ⭐️](https://www.babelcoder.com/blog/posts/7-common-misunderstandings-in-javascript)
 - [️️Chart.js Tutorial — How To Make Gradient Line Chart ⭐️](https://blog.vanila.io/chart-js-tutorial-how-to-make-gradient-line-chart-af145e5c92f9)
 - [These 6 essential tools will release, version, and maintain your NPM modules for you ](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
@@ -13,7 +13,7 @@ Have Fun! 😎
 - [Why you shouldn’t reassign values in JavaScript | Zell Liew](https://zellwk.com/blog/dont-reassign/?ck_subscriber_id=1197053)
 - [html5 - How to draw a rounded Rectangle on HTML Canvas? - Stack Overflow](https://stackoverflow.com/questions/1255512/how-to-draw-a-rounded-rectangle-on-html-canvas)
 - [Draw image caching thing and Canvas - JSFiddle](https://jsfiddle.net/jaredwilli/ex5n5/)
-- [SVG to PNG image - JSFiddle](http://jsfiddle.net/epistemex/xfh7nctk/23/)
+- [SVG **to** PNG image - JSFiddle](http://jsfiddle.net/epistemex/xfh7nctk/23/)
 - [How can I get the full object in Node.js's console.log(), rather than '[Object]'? - Stack Overflow](https://stackoverflow.com/questions/10729276/how-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object#answer-10729284)
 - [How can I convert a string into a math operator in javascript - Stack Overflow](https://stackoverflow.com/questions/13077923/how-can-i-convert-a-string-into-a-math-operator-in-javascript#answer-26551015)
 
@@ -35,6 +35,7 @@ Have Fun! 😎
 - [CSS Diner - Where we feast on CSS Selectors! ⭐️](https://flukeout.github.io/)
 - [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
+- [When to use margin vs padding in CSS - Stack Overflow](https://stackoverflow.com/questions/2189452/when-to-use-margin-vs-padding-in-css)
 
 # Blockchain
 - [Why Blockchain is Hard – Jimmy Song – Medium](https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c)
