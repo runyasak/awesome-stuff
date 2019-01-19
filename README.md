@@ -25,6 +25,7 @@ Have Fun! 😎
 - [sdras/vue-sample-svg-icons: An opinionated example of how to use SVG icons in a Vue.js application](https://github.com/sdras/vue-sample-svg-icons/blob/master/LICENSE)
 - [javascript - Vue-Chart.js: a chart doesn’t begin from zero - Stack Overflow](https://stackoverflow.com/questions/50230331/vue-chart-js-a-chart-doesnt-begin-from-zero?rq=1)
 - [[Vue warn]: The client-side rendered virtual DOM tree...](https://github.com/nuxt/nuxt.js/issues/1700)
+- [How to VueJS router-link active style - Stack Overflow](https://stackoverflow.com/questions/46083220/how-to-vuejs-router-link-active-style)
 
 # Firebase
 - [มาทำความเข้าใจกับ SQL Database และ Firebase Database กันเถอะ 🇹🇭 ⭐](https://medium.com/@jirawatee/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%81%E0%B8%B1%E0%B8%9A-sql-database-%E0%B9%81%E0%B8%A5%E0%B8%B0-firebase-database-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-4aed4a19e339)
