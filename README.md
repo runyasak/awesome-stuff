@@ -56,7 +56,7 @@ Have Fun! 😎
 - [Talent, luck and success: simulating meritocracy and inequality with stochasticity](https://medium.com/@hongsupshin/talent-luck-and-success-simulating-meritocracy-and-inequality-with-stochasticity-501e0c1b4969
 )
 - [This Is The Most Important Tool To Motivate Yourself](https://medium.com/personal-growth/this-is-the-most-important-tool-to-motivate-yourself-6b14b2e00215)
-- 
+
 # Git
 - [When you change password -- Fix "Permission denied (publickey)" error when pushing with Git](https://gist.github.com/adamjohnson/5682757)
 
