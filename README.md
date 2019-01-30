@@ -39,6 +39,9 @@ Have Fun! 😎
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - [When to use margin vs padding in CSS - Stack Overflow](https://stackoverflow.com/questions/2189452/when-to-use-margin-vs-padding-in-css)
 
+# Sequelize
+- [Limit is broken for findAll and findAndCountAll with include](https://github.com/sequelize/sequelize/issues/7344#issuecomment-307390689)
+
 # UX & UI
 - [Designing a language switch: Examples and best practices!](https://usersnap.com/blog/design-language-switch/)
 
