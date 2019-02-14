@@ -8,7 +8,6 @@ Have Fun! 😎
 - [Thai **Pangsakulyanont**: Smells In React Apps - JSConf.Asia 2018 ⭐️](https://www.youtube.com/watch?v=xBa0_b-5XDw)
 - [7 เรื่องพื้นฐานชวนสับสนใน JavaScript สำหรับผู้เริ่มต้น 🇹🇭 ⭐️](https://www.babelcoder.com/blog/posts/7-common-misunderstandings-in-javascript)
 - [️️Chart.js Tutorial — How To Make Gradient Line Chart ⭐️](https://blog.vanila.io/chart-js-tutorial-how-to-make-gradient-line-chart-af145e5c92f9)
-- [These 6 essential tools will release, version, and maintain your NPM modules for you ](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
 - [How to count the number of lines of a string in javascript - Stack Overflow](https://stackoverflow.com/questions/8488729/how-to-count-the-number-of-lines-of-a-string-in-javascript?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 - [Why you shouldn’t reassign values in JavaScript | Zell Liew](https://zellwk.com/blog/dont-reassign/?ck_subscriber_id=1197053)
 - [html5 - How to draw a rounded Rectangle on HTML Canvas? - Stack Overflow](https://stackoverflow.com/questions/1255512/how-to-draw-a-rounded-rectangle-on-html-canvas)
@@ -17,6 +16,9 @@ Have Fun! 😎
 - [How can I get the full object in Node.js's console.log(), rather than '[Object]'? - Stack Overflow](https://stackoverflow.com/questions/10729276/how-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object#answer-10729284)
 - [How can I convert a string into a math operator in javascript - Stack Overflow](https://stackoverflow.com/questions/13077923/how-can-i-convert-a-string-into-a-math-operator-in-javascript#answer-26551015)
 
+# Node.js
+- [These 6 essential tools will release, version, and maintain your NPM modules for you️ ⭐](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
+- [Aliasing module paths in Node JS | Arun Michael Dsouza](https://arunmichaeldsouza.com/blog/aliasing-module-paths-in-node-js?fbclid=IwAR1QHhAvQW3ew87vTSI2zmutyuRhmBJXII9W7_nLBr5aUzjr5NxT9p5Cy5k)
 
 # Vue.js
 - [มีอะไรใหม่ใน Vue.js (30/05/2018) – Runyasak Chaengnaimuang – Medium](https://medium.com/@RunyasakChaengnaimuang/%E0%B8%A1%E0%B8%B5%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%99-vue-js-30-05-2018-e04e02d85d2e)
