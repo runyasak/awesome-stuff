@@ -30,6 +30,9 @@ Have Fun! 😎
 - [How to VueJS router-link active style - Stack Overflow](https://stackoverflow.com/questions/46083220/how-to-vuejs-router-link-active-style)
 - [3 tips for scaling large Vue.js application | maxpou.fr](https://www.maxpou.fr/3-tips-scaling-vue-application?utm_source=vuejstutorials.com&fbclid=IwAR3KU85MV9MyY8qwZhcrzyLqDQ02jGppgPa4a7TxvmM9RGRFQAYAd956Fes)
 - [Productivity in Vue — Part 2 – Vuetify – Medium](https://medium.com/vuetify/productivity-in-vue-part-1-de56e9c1d97d)
+- [Deep Dive Into The New Vue Devtools v5.0 – Noteworthy - The Journal Blog](https://blog.usejournal.com/new-features-in-vue-devtools-v5-0-and-why-they-are-useful-3ce732fdc7a0?fbclid=IwAR1o1pGl_1prIxtUc_uEdFIUJ0lLWLXZXwBUT2WYmXarH_62MIa7kT_n8Ls)
+- [Vue.js best practices ✓ – Noteworthy - The Journal Blog](https://blog.usejournal.com/vue-js-best-practices-c5da8d7af48d?fbclid=IwAR3nmSTzcmMObhNrZ-RHgOMTiUw9hQf8NyBxTQ3QmXOWKAxn9oK5ZNEVkcQ)
+- [Vuex getters are great, but don’t overuse them – codeburst](https://codeburst.io/vuex-getters-are-great-but-dont-overuse-them-9c946689b414)
 
 # Firebase
 - [มาทำความเข้าใจกับ SQL Database และ Firebase Database กันเถอะ 🇹🇭 ⭐](https://medium.com/@jirawatee/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%81%E0%B8%B1%E0%B8%9A-sql-database-%E0%B9%81%E0%B8%A5%E0%B8%B0-firebase-database-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-4aed4a19e339)
