@@ -67,6 +67,9 @@ Have Fun! 😎
 )
 - [This Is The Most Important Tool To Motivate Yourself](https://medium.com/personal-growth/this-is-the-most-important-tool-to-motivate-yourself-6b14b2e00215)
 
+# Projects
+- [GitHub - typicode/json-server: Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
+
 # Git
 - [When you change password -- Fix "Permission denied (publickey)" error when pushing with Git](https://gist.github.com/adamjohnson/5682757)
 
