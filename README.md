@@ -8,6 +8,7 @@ Have Fun! 😎
 - [Thai **Pangsakulyanont**: Smells In React Apps - JSConf.Asia 2018 ⭐️](https://www.youtube.com/watch?v=xBa0_b-5XDw)
 - [7 เรื่องพื้นฐานชวนสับสนใน JavaScript สำหรับผู้เริ่มต้น 🇹🇭 ⭐️](https://www.babelcoder.com/blog/posts/7-common-misunderstandings-in-javascript)
 - [️️Chart.js Tutorial — How To Make Gradient Line Chart ⭐️](https://blog.vanila.io/chart-js-tutorial-how-to-make-gradient-line-chart-af145e5c92f9)
+- [JavaScript Pro Tips - Code This, NOT That - YouTube ⭐](https://www.youtube.com/watch?v=Mus_vwhTCq0&t=198s)
 - [How to count the number of lines of a string in javascript - Stack Overflow](https://stackoverflow.com/questions/8488729/how-to-count-the-number-of-lines-of-a-string-in-javascript?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 - [Why you shouldn’t reassign values in JavaScript | Zell Liew](https://zellwk.com/blog/dont-reassign/?ck_subscriber_id=1197053)
 - [html5 - How to draw a rounded Rectangle on HTML Canvas? - Stack Overflow](https://stackoverflow.com/questions/1255512/how-to-draw-a-rounded-rectangle-on-html-canvas)
