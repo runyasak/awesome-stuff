@@ -62,6 +62,11 @@ Have Fun! 😎
 
 # Microservice
 - [Microservice Architecture at Medium – Medium Engineering ⭐️](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
+- [สรุปบทความเรื่อง Microservices Architecture ของ Medium.com Part 1](http://www.somkiat.cc/microservices-architecture-at-medium-part-1/)
+- [สรุปแนวทางการนำ Microservices มาใช้งานของ Medium.com Part 2](http://www.somkiat.cc/microservices-architecture-at-medium-part-2/)
+- [สิ่งที่ควรทำก่อนจะเริ่ม Microservices](http://www.somkiat.cc/todo-lists-before-start-microservices/)
+- [Microservice คืออะไร และสำคัญอย่างไร](http://www.somkiat.cc/introduction-to-microservice/)
+- [Mastering Chaos - A Netflix Guide to Microservices - YouTube](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 
 # Motivation
 - [อยากเป็นโปรแกรมเมอร์ละอ่อนใน 3เดือน – TiMeFF – Medium 🇹🇭 ⭐](https://medium.com/@timeff/%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%99-3%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99-7201b312e115)
