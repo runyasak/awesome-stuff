@@ -16,6 +16,7 @@ Have Fun! 😎
 - [SVG **to** PNG image - JSFiddle](http://jsfiddle.net/epistemex/xfh7nctk/23/)
 - [How can I get the full object in Node.js's console.log(), rather than '[Object]'? - Stack Overflow](https://stackoverflow.com/questions/10729276/how-can-i-get-the-full-object-in-node-jss-console-log-rather-than-object#answer-10729284)
 - [How can I convert a string into a math operator in javascript - Stack Overflow](https://stackoverflow.com/questions/13077923/how-can-i-convert-a-string-into-a-math-operator-in-javascript#answer-26551015)
+- [Dependency Injection basics- Fun Fun Function - YouTube](https://www.youtube.com/watch?v=0X1Ns2NRfks&t=6s)
 
 # Node.js
 - [These 6 essential tools will release, version, and maintain your NPM modules for you️ ⭐](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
@@ -58,6 +59,9 @@ Have Fun! 😎
 
 # Web3
 - [xcode-select: error: tool 'xcodebuild' requires Xcode, but active developer directory '/Library/Developer/CommandLineTools' is a command line tools instance · Issue #569 · nodejs/node-gyp](https://github.com/nodejs/node-gyp/issues/569)
+
+# Microservice
+- [Microservice Architecture at Medium – Medium Engineering ⭐️](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 
 # Motivation
 - [อยากเป็นโปรแกรมเมอร์ละอ่อนใน 3เดือน – TiMeFF – Medium 🇹🇭 ⭐](https://medium.com/@timeff/%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%99-3%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99-7201b312e115)
