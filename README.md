@@ -36,6 +36,7 @@ Have Fun! 😎
 - [Deep Dive Into The New Vue Devtools v5.0 – Noteworthy - The Journal Blog](https://blog.usejournal.com/new-features-in-vue-devtools-v5-0-and-why-they-are-useful-3ce732fdc7a0?fbclid=IwAR1o1pGl_1prIxtUc_uEdFIUJ0lLWLXZXwBUT2WYmXarH_62MIa7kT_n8Ls)
 - [Vue.js best practices ✓ – Noteworthy - The Journal Blog](https://blog.usejournal.com/vue-js-best-practices-c5da8d7af48d?fbclid=IwAR3nmSTzcmMObhNrZ-RHgOMTiUw9hQf8NyBxTQ3QmXOWKAxn9oK5ZNEVkcQ)
 - [Vuex getters are great, but don’t overuse them – codeburst](https://codeburst.io/vuex-getters-are-great-but-dont-overuse-them-9c946689b414)
+- [How to create, publish and use your own VueJS Component library on NPM using @vue/cli 3.0](https://medium.com/justfrontendthings/how-to-create-and-publish-your-own-vuejs-component-library-on-npm-using-vue-cli-28e60943eed3)
 
 # Firebase
 - [มาทำความเข้าใจกับ SQL Database และ Firebase Database กันเถอะ 🇹🇭 ⭐](https://medium.com/@jirawatee/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%81%E0%B8%B1%E0%B8%9A-sql-database-%E0%B9%81%E0%B8%A5%E0%B8%B0-firebase-database-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-4aed4a19e339)
