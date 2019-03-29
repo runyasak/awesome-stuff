@@ -49,6 +49,7 @@ Have Fun! 😎
 - [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - [When to use margin vs padding in CSS - Stack Overflow](https://stackoverflow.com/questions/2189452/when-to-use-margin-vs-padding-in-css)
+- [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
 
 # Sequelize
 - [Limit is broken for findAll and findAndCountAll with include](https://github.com/sequelize/sequelize/issues/7344#issuecomment-307390689)
