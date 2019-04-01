@@ -18,6 +18,7 @@ Have Fun! 😎
 - [How can I convert a string into a math operator in javascript - Stack Overflow](https://stackoverflow.com/questions/13077923/how-can-i-convert-a-string-into-a-math-operator-in-javascript#answer-26551015)
 - [Dependency Injection basics- Fun Fun Function - YouTube](https://www.youtube.com/watch?v=0X1Ns2NRfks&t=6s)
 - [javascript - jest: Mock function have not been called in mock promise function - Stack Overflow](https://stackoverflow.com/questions/46546577/jest-mock-function-have-not-been-called-in-mock-promise-function)
+- [A Netflix Web Performance Case Study – Dev Channel – Medium](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 
 # Node.js
 - [These 6 essential tools will release, version, and maintain your NPM modules for you️ ⭐](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
