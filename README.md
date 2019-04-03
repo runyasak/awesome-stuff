@@ -19,6 +19,7 @@ Have Fun! 😎
 - [Dependency Injection basics- Fun Fun Function - YouTube](https://www.youtube.com/watch?v=0X1Ns2NRfks&t=6s)
 - [javascript - jest: Mock function have not been called in mock promise function - Stack Overflow](https://stackoverflow.com/questions/46546577/jest-mock-function-have-not-been-called-in-mock-promise-function)
 - [A Netflix Web Performance Case Study – Dev Channel – Medium](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+- [About Jest import problem · Issue #1087 · vuejs-templates/webpack · GitHub](https://github.com/vuejs-templates/webpack/issues/1087?fbclid=IwAR0GCehmN8MLJHISECWdTCOORQYcz9EcNDGqhmKRGzzUe9RQ75ri4D6tNt4#issuecomment-345899197)
 
 # Node.js
 - [These 6 essential tools will release, version, and maintain your NPM modules for you️ ⭐](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
@@ -40,6 +41,7 @@ Have Fun! 😎
 - [Vuex getters are great, but don’t overuse them – codeburst](https://codeburst.io/vuex-getters-are-great-but-dont-overuse-them-9c946689b414)
 - [How to create, publish and use your own VueJS Component library on NPM using @vue/cli 3.0](https://medium.com/justfrontendthings/how-to-create-and-publish-your-own-vuejs-component-library-on-npm-using-vue-cli-28e60943eed3)
 - [Anyway, here’s how to make AJAX & API calls with Vue JS](https://itnext.io/anyway-heres-how-to-do-ajax-api-calls-with-vue-js-e71e57d5cf12)
+- [🚩 Vuex Pattern: Smart Module Registration - DEV Community 👩‍💻👨‍💻](https://dev.to/nkoik/-vuex-pattern-smart-module-registration-15gc)
 
 # Firebase
 - [มาทำความเข้าใจกับ SQL Database และ Firebase Database กันเถอะ 🇹🇭 ⭐](https://medium.com/@jirawatee/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%81%E0%B8%B1%E0%B8%9A-sql-database-%E0%B9%81%E0%B8%A5%E0%B8%B0-firebase-database-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-4aed4a19e339)
