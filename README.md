@@ -59,6 +59,7 @@ Have Fun! 😎
 - [When to use margin vs padding in CSS - Stack Overflow](https://stackoverflow.com/questions/2189452/when-to-use-margin-vs-padding-in-css)
 - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
 - [A Sass `!default` use case](https://thoughtbot.com/blog/sass-default)
+- [Fake it ’til you make it CSS | Kenan Yusuf](https://kyusuf.com/post/fake-it-til-you-make-it-css/)
 
 # Sequelize
 - [Limit is broken for findAll and findAndCountAll with include](https://github.com/sequelize/sequelize/issues/7344#issuecomment-307390689)
