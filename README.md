@@ -42,6 +42,7 @@ Have Fun! 😎
 - [How to create, publish and use your own VueJS Component library on NPM using @vue/cli 3.0](https://medium.com/justfrontendthings/how-to-create-and-publish-your-own-vuejs-component-library-on-npm-using-vue-cli-28e60943eed3)
 - [Anyway, here’s how to make AJAX & API calls with Vue JS](https://itnext.io/anyway-heres-how-to-do-ajax-api-calls-with-vue-js-e71e57d5cf12)
 - [🚩 Vuex Pattern: Smart Module Registration - DEV Community 👩‍💻👨‍💻](https://dev.to/nkoik/-vuex-pattern-smart-module-registration-15gc)
+- [Unit Test Your First Vue.js Component | frontstuff](https://frontstuff.io/unit-test-your-first-vuejs-component)
 
 # NestJS
 - [Using providers and HTTP requests in a NestJS backend](https://www.joshmorony.com/using-providers-and-http-requests-in-a-nestjs-backend/) 
