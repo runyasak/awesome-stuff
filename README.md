@@ -45,6 +45,7 @@ Have Fun! 😎
 - [Unit Test Your First Vue.js Component | frontstuff](https://frontstuff.io/unit-test-your-first-vuejs-component)
 - [Vue.js และการทำ Request Cancellation กับ axios | tutor4dev 🇹🇭](https://www.tutor4dev.com/articles/2019-03-27-vuejs-handle-request-cancellation-with-axios.html?fbclid=IwAR3CtBGQfbRU5uEDMG72q8uaQj8pU7P9qxDp3qbwK5u7x40-CkRfz8aFd70)
 - [how to edit ‘@vue/prettier’ rules · Issue #1244 · vuejs/vue-cli · GitHub](https://github.com/vuejs/vue-cli/issues/1244#issuecomment-405065073)
+- [Testing your Vue app with Jest and Travis CI – JavaScript in Plain English – Medium](https://medium.com/javascript-in-plain-english/add-test-coverage-to-vue-js-app-with-jest-travis-ci-and-coveralls-d10d118125c2)
 
 # NestJS
 - [Using providers and HTTP requests in a NestJS backend](https://www.joshmorony.com/using-providers-and-http-requests-in-a-nestjs-backend/) 
