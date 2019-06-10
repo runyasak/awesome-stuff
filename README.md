@@ -46,6 +46,9 @@ Have Fun! 😎
 - [Vue.js และการทำ Request Cancellation กับ axios | tutor4dev 🇹🇭](https://www.tutor4dev.com/articles/2019-03-27-vuejs-handle-request-cancellation-with-axios.html?fbclid=IwAR3CtBGQfbRU5uEDMG72q8uaQj8pU7P9qxDp3qbwK5u7x40-CkRfz8aFd70)
 - [how to edit ‘@vue/prettier’ rules · Issue #1244 · vuejs/vue-cli · GitHub](https://github.com/vuejs/vue-cli/issues/1244#issuecomment-405065073)
 - [Testing your Vue app with Jest and Travis CI – JavaScript in Plain English – Medium](https://medium.com/javascript-in-plain-english/add-test-coverage-to-vue-js-app-with-jest-travis-ci-and-coveralls-d10d118125c2)
+- [How to add to nuxt ? · Issue #212 · vueComponent/ant-design-vue · GitHub](https://github.com/vueComponent/ant-design-vue/issues/212)
+- [and design vue with nuxt js 2 less loader problem · Issue #234 · vueComponent/ant-design-vue · GitHub](https://github.com/vueComponent/ant-design-vue/issues/234)
+- [import the antd theme, webpack build show .bezierEasingMixin error ? · Issue #7927 · ant-design/ant-design · GitHub](https://github.com/ant-design/ant-design/issues/7927)
 
 # NestJS
 - [Using providers and HTTP requests in a NestJS backend](https://www.joshmorony.com/using-providers-and-http-requests-in-a-nestjs-backend/) 
