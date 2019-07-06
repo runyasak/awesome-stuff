@@ -69,6 +69,7 @@ Have Fun! 😎
 - [Fake it ’til you make it CSS | Kenan Yusuf](https://kyusuf.com/post/fake-it-til-you-make-it-css/)
 - [CSSBattle](https://cssbattle.dev/)
 - [Step progress bar Tutorial, CSS. - YouTube](https://www.youtube.com/watch?v=DYevj6UGNWA&t=187s)
+- [HTML can do that? - DEV Community 👩‍💻👨‍💻](https://dev.to/ananyaneogi/html-can-do-that-c0n)
 
 # Sequelize
 - [Limit is broken for findAll and findAndCountAll with include](https://github.com/sequelize/sequelize/issues/7344#issuecomment-307390689)
