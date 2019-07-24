@@ -40,7 +40,7 @@ Have Fun! 😎
 - [Vue.js best practices ✓ – Noteworthy - The Journal Blog](https://blog.usejournal.com/vue-js-best-practices-c5da8d7af48d?fbclid=IwAR3nmSTzcmMObhNrZ-RHgOMTiUw9hQf8NyBxTQ3QmXOWKAxn9oK5ZNEVkcQ)
 - [Vuex getters are great, but don’t overuse them – codeburst](https://codeburst.io/vuex-getters-are-great-but-dont-overuse-them-9c946689b414)
 - [How to create, publish and use your own VueJS Component library on NPM using @vue/cli 3.0](https://medium.com/justfrontendthings/how-to-create-and-publish-your-own-vuejs-component-library-on-npm-using-vue-cli-28e60943eed3)
-- [Anyway, here’s how to make AJAX & API calls with Vue JS](https://itnext.io/anyway-heres-how-to-do-ajax-api-calls-with-vue-js-e71e57d5cf12)
+- [Anyway, here’s **how** to make AJAX & API calls with Vue JS](https://itnext.io/anyway-heres-how-to-do-ajax-api-calls-with-vue-js-e71e57d5cf12)
 - [🚩 Vuex Pattern: Smart Module Registration - DEV Community 👩‍💻👨‍💻](https://dev.to/nkoik/-vuex-pattern-smart-module-registration-15gc)
 - [Unit Test Your First Vue.js Component | frontstuff](https://frontstuff.io/unit-test-your-first-vuejs-component)
 - [Vue.js และการทำ Request Cancellation กับ axios | tutor4dev 🇹🇭](https://www.tutor4dev.com/articles/2019-03-27-vuejs-handle-request-cancellation-with-axios.html?fbclid=IwAR3CtBGQfbRU5uEDMG72q8uaQj8pU7P9qxDp3qbwK5u7x40-CkRfz8aFd70)
@@ -109,6 +109,7 @@ Have Fun! 😎
 - [เขียนโค้ดให้สวย คืออะไร ? – Khemmachart Chutapetch – Medium 🇹🇭](https://medium.com/@khemmachart/%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%A7%E0%B8%A2-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-86694cc94624)
 - [React vs Angular vs Vue: Who wins in 2019? – zero to mastery – Medium](https://medium.com/zerotomastery/react-vs-angular-vs-vue-who-wins-in-2019-5d9acd0843e8)
 - [สิ่งที่ผมได้เรียนรู้จาก #100DaysofCode. – KS Journals 🇹🇭](https://blog.ks.in.th/%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9C%E0%B8%A1%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B2%E0%B8%81-100daysofcode-fba6028af493?fbclid=IwAR2lygC_BKNhwZnQX6QDbn8fzDWF-FQ-kCqBMWYQB1RflZJQBHE_Nwab-no)
+- [Irrational predictable: แง้มประตูไว้ก่อน - odds.team - Medium](https://medium.com/odds-team/irrational-predictable-%E0%B9%81%E0%B8%87%E0%B9%89%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B9%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99-ca63c2373399)
 
 
 # Projects
