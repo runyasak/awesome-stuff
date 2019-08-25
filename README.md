@@ -78,6 +78,7 @@ Have Fun! 😎
 
 # UX & UI
 - [Designing a language switch: Examples and best practices!](https://usersnap.com/blog/design-language-switch/)
+- [7 Practical Tips for Cheating at Design - Refactoring UI - Medium](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
 # Blockchain
 - [Why Blockchain is Hard – Jimmy Song – Medium](https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c)
