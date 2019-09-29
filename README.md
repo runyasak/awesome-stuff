@@ -27,6 +27,7 @@ Have Fun! 😎
 
 # Vue.js
 - [7 Secret Patterns Vue Consultants Don’t Want You to Know - Chris Fritz - YouTube ⭐](https://www.youtube.com/watch?v=7lpemgMhi0k)
+- [【Nuxt.js/axios】別ドメインへのajaxがCORS policyで弾かれる問題の対応 - フリーランチ食べたい ⭐](https://blog.ikedaosushi.com/entry/2019/02/09/013404?amp=1)
 - [มีอะไรใหม่ใน Vue.js (30/05/2018) – Runyasak Chaengnaimuang – Medium](https://medium.com/@RunyasakChaengnaimuang/%E0%B8%A1%E0%B8%B5%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%99-vue-js-30-05-2018-e04e02d85d2e)
 - [🔮 Dynamic Component Templates with Vue.js – Scrumpy – Medium](https://medium.com/scrumpy/dynamic-component-templates-with-vue-js-d9236ab183bb)
 - [Vue2.0 image load event - JSFiddle](http://jsfiddle.net/nobu222/xr0g3Lco/)
