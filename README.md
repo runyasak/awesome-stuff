@@ -20,6 +20,7 @@ Have Fun! 😎
 - [javascript - jest: Mock function have not been called in mock promise function - Stack Overflow](https://stackoverflow.com/questions/46546577/jest-mock-function-have-not-been-called-in-mock-promise-function)
 - [A Netflix Web Performance Case Study – Dev Channel – Medium](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 - [About Jest import problem · Issue #1087 · vuejs-templates/webpack · GitHub](https://github.com/vuejs-templates/webpack/issues/1087?fbclid=IwAR0GCehmN8MLJHISECWdTCOORQYcz9EcNDGqhmKRGzzUe9RQ75ri4D6tNt4#issuecomment-345899197)
+- [HackerRank Is Teaching You to Write Terrible Code - DEV Community 👩‍💻👨‍💻](https://dev.to/raddevon/hackerrank-is-teaching-you-to-write-terrible-code-3f1j?fbclid=IwAR2ll6DVbeeuHc2JZqIz6Alyv1MLx4BEoPwzkKmmTmPVkYqi6GAsCUu6k5I)
 
 # Node.js
 - [These 6 essential tools will release, version, and maintain your NPM modules for you️ ⭐](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
