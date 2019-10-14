@@ -104,6 +104,7 @@ Have Fun! 😎
 # Motivation
 - [อยากเป็นโปรแกรมเมอร์ละอ่อนใน 3เดือน – TiMeFF – Medium 🇹🇭 ⭐](https://medium.com/@timeff/%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%99-3%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99-7201b312e115)
 - [อย่าให้สวัสดิการในบริษัทซอฟต์แวร์ยุคใหม่ทำให้เราเสียนิสัย 🇹🇭 ⭐](https://blog.nextzy.me/do-not-indy-if-you-are-not-mass-yet-14b473a8cef4)
+- [Stop Fighting About JavaScript Frameworks - DEV Community ⭐](https://dev.to/johnbwoodruff/stop-fighting-about-javascript-frameworks-2307)
 - [Developer learning styles — A chat with creator of Vue.js Evan You](https://blog.hackages.io/developer-learning-styles-a-chat-with-creator-of-vue-js-evan-you-a11f2dc5deac)
 - [Programming and motivation 🇹🇭](https://www.facebook.com/notes/thai-pangsakulyanont/programming-and-motivation/10154985937599088/)
 - [I just don’t want to be a software developer anymore](https://medium.com/@melissamcewen/i-just-dont-want-to-be-a-software-developer-anymore-a371422069a1)
