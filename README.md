@@ -63,6 +63,7 @@ Have Fun! 😎
 - [Firebase Storage and Access-Control-Allow-Origin - Stack Overflow](https://stackoverflow.com/questions/37760695/firebase-storage-and-access-control-allow-origin?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 - [Although specifying packages I’m still receiving “It looks like you’re using the development build of the Firebase JS SDK” · Issue #848 · firebase/firebase-js-sdk · GitHub](https://github.com/firebase/firebase-js-sdk/issues/848)
 - [Using schemas to generate your forms with Vue, and more!](https://blog.sourcerer.io/using-schemas-to-generate-your-forms-with-vue-and-more-e1cc28f2e8da)
+- [hide file preview on file drag · Issue #257 · rowanwins/vue-dropzone · GitHub](https://github.com/rowanwins/vue-dropzone/issues/257#issuecomment-432411999)
 
 # CSS
 - [CSS Diner - Where we feast on CSS Selectors! ⭐️](https://flukeout.github.io/)
