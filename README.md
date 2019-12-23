@@ -54,6 +54,7 @@ Have Fun! 😎
 - [import the antd theme, webpack build show .bezierEasingMixin error ? · Issue #7927 · ant-design/ant-design · GitHub](https://github.com/ant-design/ant-design/issues/7927)
 - [Nuxt: Pre-commit - Vue/NuxtでESLintを活用(コミット度にlintを走らせる編) - Qiita](https://qiita.com/yfujii1127/items/bf70cf62d2800aeeff7b)
 - [Vuetify asynchronous autocomplete issue - vuetify - Vue Forum](https://forum.vuejs.org/t/vuetify-asynchronous-autocomplete-issue/62812)
+- [Adding GraphQL to your VueJS application](https://thecodingmachine.io/adding-graphql-to-your-vuejs-application)
 
 # NestJS
 - [Using providers and HTTP requests in a NestJS backend](https://www.joshmorony.com/using-providers-and-http-requests-in-a-nestjs-backend/) 
