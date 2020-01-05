@@ -9,6 +9,7 @@ Have Fun! 😎
 - [7 เรื่องพื้นฐานชวนสับสนใน JavaScript สำหรับผู้เริ่มต้น 🇹🇭 ⭐️](https://www.babelcoder.com/blog/posts/7-common-misunderstandings-in-javascript)
 - [️️Chart.js Tutorial — How To Make Gradient Line Chart ⭐️](https://blog.vanila.io/chart-js-tutorial-how-to-make-gradient-line-chart-af145e5c92f9)
 - [JavaScript Pro Tips - Code This, NOT That - YouTube ⭐](https://www.youtube.com/watch?v=Mus_vwhTCq0&t=198s)
+- [JS-105 รู้หรือไม่ Import/Require มันต่างกันกว่าที่คิด !! 🇹🇭](https://medium.com/@noomerzx/js-105-%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B9%88-import-require-%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%B4%E0%B8%94-2be918b35e6e)
 - [How to count the number of lines of a string in javascript - Stack Overflow](https://stackoverflow.com/questions/8488729/how-to-count-the-number-of-lines-of-a-string-in-javascript?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 - [Why you shouldn’t reassign values in JavaScript | Zell Liew](https://zellwk.com/blog/dont-reassign/?ck_subscriber_id=1197053)
 - [html5 - How to draw a rounded Rectangle on HTML Canvas? - Stack Overflow](https://stackoverflow.com/questions/1255512/how-to-draw-a-rounded-rectangle-on-html-canvas)
