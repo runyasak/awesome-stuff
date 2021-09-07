@@ -57,6 +57,7 @@ Have Fun! 😎
 - [Nuxt: Pre-commit - Vue/NuxtでESLintを活用(コミット度にlintを走らせる編) - Qiita](https://qiita.com/yfujii1127/items/bf70cf62d2800aeeff7b)
 - [Vuetify asynchronous autocomplete issue - vuetify - Vue Forum](https://forum.vuejs.org/t/vuetify-asynchronous-autocomplete-issue/62812)
 - [Adding GraphQL to your VueJS application](https://thecodingmachine.io/adding-graphql-to-your-vuejs-application)
+- [How To Host a Vue.js Static Website With GCP Cloud Storage](https://medium.com/bb-tutorials-and-thoughts/how-to-host-a-vue-js-static-website-with-gcp-cloud-storage-b8e87b89e4de)
 
 # NestJS
 - [Using providers and HTTP requests in a NestJS backend](https://www.joshmorony.com/using-providers-and-http-requests-in-a-nestjs-backend/) 
