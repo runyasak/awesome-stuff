@@ -57,7 +57,6 @@ Have Fun! 😎
 - [Nuxt: Pre-commit - Vue/NuxtでESLintを活用(コミット度にlintを走らせる編) - Qiita](https://qiita.com/yfujii1127/items/bf70cf62d2800aeeff7b)
 - [Vuetify asynchronous autocomplete issue - vuetify - Vue Forum](https://forum.vuejs.org/t/vuetify-asynchronous-autocomplete-issue/62812)
 - [Adding GraphQL to your VueJS application](https://thecodingmachine.io/adding-graphql-to-your-vuejs-application)
-- [How To Host a Vue.js Static Website With GCP Cloud Storage](https://medium.com/bb-tutorials-and-thoughts/how-to-host-a-vue-js-static-website-with-gcp-cloud-storage-b8e87b89e4de)
 
 # NestJS
 - [Using providers and HTTP requests in a NestJS backend](https://www.joshmorony.com/using-providers-and-http-requests-in-a-nestjs-backend/) 
@@ -106,7 +105,7 @@ Have Fun! 😎
 # Programming
 - [Big O Notation สำคัญไฉน มาทบทวนกันหน่อย (Part 1) — ความหมาย และประเภทของ Big O 🇹🇭](https://itopstory.com/what-why-and-type-big-o-notation-90a1a1d43596)
 - [Making a Frontend Framework Tier List - History of JS SPA Frameworks and Libraries](https://www.youtube.com/watch?v=O0o7bvnmc_Y&t=782s&ab_channel=CodingGarden)
-- [1 ปีกับการเป็น Data Engineer ที่ LINE MAN Wongnai](https://life.wongnai.com/1-%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-data-engineer-%E0%B8%97%E0%B8%B5%E0%B9%88-line-man-wongnai-b1d997b2ab8c)
+- [The 100% Code Coverage Myth](https://hackernoon.com/the-100-code-coverage-myth-900b83d20d3d)
 
 # Motivation
 - [อยากเป็นโปรแกรมเมอร์ละอ่อนใน 3เดือน – TiMeFF – Medium 🇹🇭 ⭐](https://medium.com/@timeff/%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%99-3%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99-7201b312e115)
