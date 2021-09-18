@@ -133,6 +133,9 @@ Have Fun! 😎
 # Projects
 - [GitHub - typicode/json-server: Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
 
+# Courses
+- [Skooldio - Getting Started with Kotlin](https://www.skooldio.com/courses/getting-started-with-kotlin)
+
 # Git
 - [When you change password -- Fix "Permission denied (publickey)" error when pushing with Git](https://gist.github.com/adamjohnson/5682757)
 
