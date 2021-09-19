@@ -106,6 +106,7 @@ Have Fun! 😎
 - [Big O Notation สำคัญไฉน มาทบทวนกันหน่อย (Part 1) — ความหมาย และประเภทของ Big O 🇹🇭](https://itopstory.com/what-why-and-type-big-o-notation-90a1a1d43596)
 - [Making a Frontend Framework Tier List - History of JS SPA Frameworks and Libraries](https://www.youtube.com/watch?v=O0o7bvnmc_Y&t=782s&ab_channel=CodingGarden)
 - [The 100% Code Coverage Myth](https://hackernoon.com/the-100-code-coverage-myth-900b83d20d3d)
+- [จะเขียนเทสไปทำไม?](https://pallat.medium.com/%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1-cb4049269f9c)
 
 # Motivation
 - [อยากเป็นโปรแกรมเมอร์ละอ่อนใน 3เดือน – TiMeFF – Medium 🇹🇭 ⭐](https://medium.com/@timeff/%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%99-3%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99-7201b312e115)
