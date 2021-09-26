@@ -149,3 +149,4 @@ Have Fun! 😎
 - [LanguageTool - Style and Grammar Checker](https://www.languagetool.org/)
 - [appear.in - Easy video conversations](https://appear.in/)
 - [Imba - The friendly full-stack language!](https://imba.io/language/basic-syntax)
+- [Introducing Partytown 🎉: Run Third-Party Scripts From a Web Worker - DEV Community 👩‍💻👨‍💻](https://dev.to/adamdbradley/introducing-partytown-run-third-party-scripts-from-a-web-worker-2cnp?fbclid=IwAR1WefpqCKABplwO95niYWz6aXgcZETfzxXK1ng4ad_k-cwMppfES7Op5Ks)
