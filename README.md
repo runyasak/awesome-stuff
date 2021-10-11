@@ -28,6 +28,7 @@ Have Fun! 😎
 - [These 6 essential tools will release, version, and maintain your NPM modules for you️ ⭐](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
 - [Aliasing module paths in Node JS | Arun Michael Dsouza](https://arunmichaeldsouza.com/blog/aliasing-module-paths-in-node-js?fbclid=IwAR1QHhAvQW3ew87vTSI2zmutyuRhmBJXII9W7_nLBr5aUzjr5NxT9p5Cy5k)
 - [3 Ways to Fix the CORS Error — and How the Access-Control-Allow-Origin Header Works](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9)
+- [nvm install node fails to install on macOS Big Sur M1 Chip](https://github.com/nvm-sh/nvm/issues/2350#issuecomment-734132550)
 
 # Vue.js
 - [7 Secret Patterns Vue Consultants Don’t Want You to Know - Chris Fritz - YouTube ⭐](https://www.youtube.com/watch?v=7lpemgMhi0k)
