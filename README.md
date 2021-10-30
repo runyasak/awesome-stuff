@@ -58,6 +58,7 @@ Have Fun! 😎
 - [Nuxt: Pre-commit - Vue/NuxtでESLintを活用(コミット度にlintを走らせる編) - Qiita](https://qiita.com/yfujii1127/items/bf70cf62d2800aeeff7b)
 - [Vuetify asynchronous autocomplete issue - vuetify - Vue Forum](https://forum.vuejs.org/t/vuetify-asynchronous-autocomplete-issue/62812)
 - [Adding GraphQL to your VueJS application](https://thecodingmachine.io/adding-graphql-to-your-vuejs-application)
+- [Is Nuxt 3 ready ?](https://isnuxt3ready.owln.ai/)
 
 # NestJS
 - [Using providers and HTTP requests in a NestJS backend](https://www.joshmorony.com/using-providers-and-http-requests-in-a-nestjs-backend/) 
