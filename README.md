@@ -60,6 +60,9 @@ Have Fun! 😎
 - [Adding GraphQL to your VueJS application](https://thecodingmachine.io/adding-graphql-to-your-vuejs-application)
 - [Is Nuxt 3 ready ?](https://isnuxt3ready.owln.ai/)
 
+# React
+- [Next.js 12](https://nextjs.org/blog/next-12)
+
 # NestJS
 - [Using providers and HTTP requests in a NestJS backend](https://www.joshmorony.com/using-providers-and-http-requests-in-a-nestjs-backend/) 
 
