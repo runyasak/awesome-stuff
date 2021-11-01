@@ -86,6 +86,7 @@ Have Fun! 😎
 - [HTML can do that? - DEV Community 👩‍💻👨‍💻](https://dev.to/ananyaneogi/html-can-do-that-c0n)
 - [Print <div id=“printarea”></div> only? - Stack Overflow](https://stackoverflow.com/questions/468881/print-div-id-printarea-div-only)
 - [TACHYONS - Css Toolkit](https://tachyons.io/)
+- [The start of a new era for Responsive Web Design](https://uxdesign.cc/the-start-of-a-new-era-for-responsive-web-design-6658a6bbeb9b)
 
 # Sequelize
 - [Limit is broken for findAll and findAndCountAll with include](https://github.com/sequelize/sequelize/issues/7344#issuecomment-307390689)
