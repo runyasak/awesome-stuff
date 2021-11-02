@@ -75,6 +75,7 @@ Have Fun! 😎
 
 # CSS
 - [CSS Diner - Where we feast on CSS Selectors! ⭐️](https://flukeout.github.io/)
+- [100 Bytes of CSS to look great everywhere ⭐️](https://www.swyx.io/css-100-bytes/?fbclid=IwAR0p1o9ySdff6bKh3LNYuYbj-luheXEpUziD2zgG45DWuY6BERZK6-M7b7M)
 - [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - [When to use margin vs padding in CSS - Stack Overflow](https://stackoverflow.com/questions/2189452/when-to-use-margin-vs-padding-in-css)
