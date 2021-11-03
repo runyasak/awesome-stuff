@@ -59,6 +59,7 @@ Have Fun! 😎
 - [Vuetify asynchronous autocomplete issue - vuetify - Vue Forum](https://forum.vuejs.org/t/vuetify-asynchronous-autocomplete-issue/62812)
 - [Adding GraphQL to your VueJS application](https://thecodingmachine.io/adding-graphql-to-your-vuejs-application)
 - [Is Nuxt 3 ready ?](https://isnuxt3ready.owln.ai/)
+- [New component patterns for Vue 3](https://www.youtube.com/watch?v=SMGdokqKEuY&t=32s&ab_channel=VueMastery)
 
 # React
 - [Next.js 12](https://nextjs.org/blog/next-12)
