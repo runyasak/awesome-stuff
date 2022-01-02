@@ -67,6 +67,9 @@ Have Fun! 😎
 # NestJS
 - [Using providers and HTTP requests in a NestJS backend](https://www.joshmorony.com/using-providers-and-http-requests-in-a-nestjs-backend/) 
 
+# Angular
+- [From View Engine to Ivy: Rendering in Angular](https://browserperson.medium.com/from-view-engine-to-ivy-rendering-in-angular-a81d9eb8199b)
+
 # Firebase
 - [มาทำความเข้าใจกับ SQL Database และ Firebase Database กันเถอะ 🇹🇭 ⭐](https://medium.com/@jirawatee/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%81%E0%B8%B1%E0%B8%9A-sql-database-%E0%B9%81%E0%B8%A5%E0%B8%B0-firebase-database-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-4aed4a19e339)
 - [Firebase Storage and Access-Control-Allow-Origin - Stack Overflow](https://stackoverflow.com/questions/37760695/firebase-storage-and-access-control-allow-origin?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
