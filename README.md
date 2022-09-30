@@ -145,6 +145,9 @@ Have Fun! 😎
 - [Product backlog refinement ไม่ใช่ event](https://juacompe.medium.com/product-backlog-refinement-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88-event-fbf3e9ddf2cc)
 - [เสพติดภาพความสำเร็จเก่า ๆ ของตัวเอง?](https://medium.com/odds-team/%E0%B9%80%E0%B8%AA%E0%B8%9E%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%88%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2-%E0%B9%86-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87-7ae3aabc1fe4)
 
+# Web Performance
+- [https://medium.com/@matthew.costello/frontend-web-performance-the-essentials-0-61fea500b180](https://medium.com/@matthew.costello/frontend-web-performance-the-essentials-0-61fea500b180)
+
 
 # Projects
 - [GitHub - typicode/json-server: Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
