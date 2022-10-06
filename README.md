@@ -64,6 +64,7 @@ Have Fun! 😎
 
 # React
 - [Next.js 12](https://nextjs.org/blog/next-12)
+- [Why useEffect is a bad place to make API calls](https://medium.com/wesionary-team/why-useeffect-is-a-bad-place-to-make-api-calls-98a606735c1c)
 
 # NestJS
 - [Using providers and HTTP requests in a NestJS backend](https://www.joshmorony.com/using-providers-and-http-requests-in-a-nestjs-backend/) 
