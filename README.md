@@ -151,7 +151,7 @@ Have Fun! 😎
 - [Move fast while maintaining quality with black box testing by Thai Pangsakulyanont 🇹🇭](https://www.youtube.com/watch?v=vbIWSwz8NxQ)
 
 # Web Performance
-- [https://medium.com/@matthew.costello/frontend-web-performance-the-essentials-0-61fea500b180](https://medium.com/@matthew.costello/frontend-web-performance-the-essentials-0-61fea500b180)
+- [Frontend Web Performance: The Essentials [0]](https://medium.com/@matthew.costello/frontend-web-performance-the-essentials-0-61fea500b180)
 
 
 # Projects
